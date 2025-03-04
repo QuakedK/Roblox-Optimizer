@@ -1,2 +1,9 @@
 # Roblox-Optimizer
-Fortnite Optimizer: The all-in-done, easy &amp; simple Fortnite tool.
+Roblox Optimizer's goal is to automate the irritating process of manually optimizing Roblox. This simple and user friendly bat will disable Fullscreen Optimizations, Set the Graphics Preference to high, Set Roblox to High Priority, Auto Install and auto import ClientSettings folder that uncaps fps!
+
+![Roblox Optimizer](https://github.com/user-attachments/assets/2f830344-d62a-4901-86cc-b1559822cb02)
+![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Roblox-Optimizer/total)
+
+# Usage
+1. Download [Roblox Optimizer](https://github.com/QuakedK/Fortnite-Optimizer/releases/download/Fortnite/Fortnite-Optimizer-V1.0.bat).
+2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
