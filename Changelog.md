@@ -40,3 +40,12 @@
 - Updated Native Optimized with new and improved fast flags
 
 ---
+
+**Roblox-Optimizer V1.7**
+
+8/30/25 <3
+
+**Readded**
+- Readded Appdata Roblox Detection!
+
+---
