@@ -7,3 +7,7 @@ Roblox Optimizer's goal is to automate the irritating process of manually optimi
 # Usage
 1. Download [Roblox Optimizer](https://github.com/QuakedK/Roblox-Optimizer/releases/download/RobloxOptimizer/Roblox-Optimizer-V1.7.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
+
+# Roblox Path Not Found?
+1. Simply re-download [Roblox](https://www.roblox.com/download).
+<img width="978" height="512" alt="image" src="https://github.com/user-attachments/assets/99591a3f-0cf3-4402-bb0e-d566ffc06734" />
