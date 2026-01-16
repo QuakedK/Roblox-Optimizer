@@ -5,6 +5,10 @@ Roblox Optimizer's goal is to automate the irritating process of manually optimi
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Roblox-Optimizer/total)
 
 # Usage
+> [!CAUTION]
+> As far as I'm aware Roblox FastFlags, are virtually dead making the main config import feature of this optimizer pointless.
+> TLDR: The Roblox Optimizer is currently outdated!
+
 1. Download [Roblox Optimizer](https://github.com/QuakedK/Roblox-Optimizer/releases/download/RobloxOptimizer/Roblox-Optimizer-V1.7.bat).
 2. Right-click & run it as admin, and almost everything else is automatic, except user-required inputs.
 
