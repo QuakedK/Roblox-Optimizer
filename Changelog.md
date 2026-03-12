@@ -49,3 +49,18 @@
 - Readded Appdata Roblox Detection!
 
 ---
+
+**Roblox-Optimizer V2.0**
+
+3/12/26 <3
+
+**Removed**
+- Removed Roblox Tools download.
+- Removed Native Optimized ClientSettings/Flags.
+- Removed Default Uncapped ClientSettings/Flags.
+- Removed Max Quality ClientSettings/Flags.
+
+**Added**
+- Added a fps uncap script for GlobalBasicSettings_13.xml! (Roblox switched ClientSettings to GlobalBasicSettings and removed fastflags)
+
+---
