@@ -64,3 +64,26 @@
 - Added a fps uncap script for GlobalBasicSettings_13.xml! (Roblox switched ClientSettings to GlobalBasicSettings and removed fastflags)
 
 ---
+
+**Roblox-Optimizer V2.1**
+
+3/15/26 <3
+
+**Added**
+- Added "Ignore path not found, as long as one of the roblox paths are found!" text.
+- Added Questionmark Variable.
+- Added Uncheck Read Only code.
+- Added/updated capping Roblox Fps Failed error message.
+
+**Fixed**
+- Fixed the question mark not showing in Roblox Program Files Path error.
+- Fixed the question mark not showing in Roblox Appdata Path error.
+
+**Changed**
+- Chnaged/slightly edited the Roblox Path was not found message.
+- Changed the DarkYellow, We recommend restarting your PC to red. 
+
+**Removed**
+- DarkYellow Color.
+- 
+---
