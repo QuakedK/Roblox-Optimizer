@@ -85,5 +85,5 @@
 
 **Removed**
 - DarkYellow Color.
-- 
+
 ---
