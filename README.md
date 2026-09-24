@@ -1,5 +1,5 @@
 # Roblox-Optimizer
-Roblox Optimizer's goal is to automate the irritating process of manually optimizing Roblox. This simple and user friendly bat will disable Fullscreen Optimizations, Set the Graphics Preference to high, Set Roblox to High Priority, and Uncap Your FPS, and delete roblox from startup!
+Roblox Optimizer's goal is to automate the irritating process of manually optimizing Roblox. This simple and user friendly bat will disable Fullscreen Optimizations, Set the Graphics Preference to high, Set Roblox to High Priority, and Uncap Your FPS, and delete Roblox from startup!
 
 ![Roblox Optimizer](https://github.com/user-attachments/assets/2f830344-d62a-4901-86cc-b1559822cb02)
 ![GitHub Release Downloads](https://img.shields.io/github/downloads/QuakedK/Roblox-Optimizer/total)
