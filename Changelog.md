@@ -87,3 +87,22 @@
 - DarkYellow Color.
 
 ---
+
+**Roblox-Optimizer V2.2**
+
+9/23/26 <3
+
+**Added**
+- Added Program Files Roblox Path Support.
+- Added RobloxPlayerBeta startup remover.
+- Added the word "fully" in the "Attempt to re-install the game" echo.
+- Added/Made echo'd paths green instead of blue.
+- Added Pause to after Paths found.
+- Added Pause to after Paths not found.
+
+**Fixed**
+- Fixed the dup of the word "Found" in the appdata found output.
+- Fixed the red color, if one path wasn't found but 1 or more was. (Found outputs stay blue)
+- Fixed Optimizer closing if Uncapping Roblox Fps Failed, now goes to :Done after any key is pressed.
+
+---
